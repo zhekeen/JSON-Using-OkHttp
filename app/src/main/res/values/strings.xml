@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JSON Using OkHttp</string>
+    <string name="refresh">Refresh</string>
+</resources>
